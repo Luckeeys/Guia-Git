@@ -7,6 +7,14 @@ $ git init
  ' Inicia um Repositório local
 ```
 ```
+$ git clone #URL
+ ' clona um repositório (apenas a branch principal)
+```
+```
+$ git clone #URL --branch #NomeDaBranch
+ ' clona uma branch específica do repositório
+```
+```
 $ git checkout -b #NomeDaBranch
  ' Cria uma branch local
 ```
@@ -21,6 +29,22 @@ $ git branch
 ```
 $ git branch -d #NomeDaBranch
  ' Deleta uma branch existente
+```
+```
+$ git stash
+ ' Coloca uma modificação em stand e retorna a branch para a versão antes das modificações
+```
+```
+$ git stash list
+ ' Lista as alterações que estão em espera
+```
+```
+$ git stash apply
+ ' Retorna as alterações que estavam em standby
+```
+```
+$ git statsh pop
+ ' Remove a alteração que estava em standby
 ```
 ```
 $ git merge #NomeDaBranch

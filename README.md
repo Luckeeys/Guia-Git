@@ -1,6 +1,6 @@
-# DIO | Resumos Git e GitHub
+Resumos Git e GitHub
 
-Repositorio para armazenar resumos de códigos do Git e GitHub da [Digital Innovation One (DIO)](https://www.dio.me)
+Repositorio para armazenar resumos de códigos do Git e GitHub
 
 ## 📚 Documentação
 
@@ -18,3 +18,5 @@ Repositorio para armazenar resumos de códigos do Git e GitHub da [Digital Innov
 ## 🔍 Links Úteis
 - [My Octocat](https://myoctocat.com/)
 - [GitHub Desktop](https://desktop.github.com/)
+
+![octocat-1694038292695](https://github.com/Luckeeys/CursoGit/assets/88203002/e19ff4b9-f445-4776-8dd0-1d8dd4479820)

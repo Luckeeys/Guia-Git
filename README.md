@@ -16,5 +16,5 @@ Repositorio para armazenar resumos de códigos do Git e GitHub da [Digital Innov
 
 
 ## 🔍 Links Úteis
-[My Octocat](https://myoctocat.com/)
-[GitHub Desktop](https://desktop.github.com/)
+- [My Octocat](https://myoctocat.com/)
+- [GitHub Desktop](https://desktop.github.com/)

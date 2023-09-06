@@ -15,5 +15,6 @@ Repositorio para armazenar resumos de códigos do Git e GitHub da [Digital Innov
 | Códigos Recorrentes | [Clique Aqui!](https://github.com/Luckeeys/CursoGit/blob/main/Resumo/Codigos%20recorrentes.md) |
 
 
-## 🔍 Referências
-[DIO](https://www.dio.me)
+## 🔍 Links Úteis
+[My Octocat](https://myoctocat.com/)
+[GitHub Desktop](https://desktop.github.com/)

@@ -19,4 +19,4 @@ Repositorio para armazenar resumos de códigos do Git e GitHub
 - [My Octocat](https://myoctocat.com/)
 - [GitHub Desktop](https://desktop.github.com/)
 
-![octocat-1694038292695](https://github.com/Luckeeys/CursoGit/assets/88203002/e19ff4b9-f445-4776-8dd0-1d8dd4479820)
+![octocat-1694046011752](https://github.com/Luckeeys/CursoGit/assets/88203002/e5ebd6cd-437f-41fd-8102-6606d2c33f59)

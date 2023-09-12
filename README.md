@@ -18,5 +18,8 @@ Repositorio para armazenar resumos de códigos do Git e GitHub
 ## 🔍 Links Úteis
 - [My Octocat](https://myoctocat.com/)
 - [GitHub Desktop](https://desktop.github.com/)
+- [Gerador de Badge](https://shields.io/badges)
+- [Editor de MarkDown](https://readme.so)
 
-![octocat-1694046011752](https://github.com/Luckeeys/CursoGit/assets/88203002/e5ebd6cd-437f-41fd-8102-6606d2c33f59)
+
+![octocat-1694046011752](https://github.com/Luckeeys/Guia-Git/assets/88203002/628e09e9-feaa-49e7-bbd4-41fa3579a001)

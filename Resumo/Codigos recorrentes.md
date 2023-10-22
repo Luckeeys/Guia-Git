@@ -59,6 +59,10 @@ $ git commit -m "mensagem do commit"
  ' Na mensagem colocar um resumo das alterações feitas
 ```
 ```
+$ git commit --amend -m ¨mensagem¨
+ ' Altera a mensagem do commit localmente, na mensagem colocar um resumo das alterações feitas
+```
+```
 $ git log
  ' loga as ações feitas no comando
 ```

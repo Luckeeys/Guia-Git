@@ -26,7 +26,7 @@ ng add angular-cli-ghpages
 "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/Angular-Store/"
+            "baseHref": "/NomeDoRepositorio/"
           }
 ```
 

@@ -11,3 +11,25 @@
 ```
 ng build --configuration=production --output-path docs --base-href /NomeDoRepositorio/"
 ```
+OU
+
+1. Executar o comando abaixo no terminal
+2. Adicionar a parte de deploy no arquivo angular.json
+3. Executar o terceiro comando
+4. Na pagina do GitHub Pages selecionar a branch gh-pages e a pasta root
+
+```
+ng add angular-cli-ghpages
+```
+
+```
+"deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/Angular-Store/"
+          }
+```
+
+```
+ng deploy
+```
